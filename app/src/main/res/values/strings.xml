@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EndToEnd</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_activity_create_group">Create Group</string>
+    <string name="title_activity_update_key">Update Key</string>
+    <string name="loginForm">Login Form</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_conversation">Conversations</string>
+    <string name="action_register">Register</string>
+    <string name="title_activity_registration">Registration</string>
+</resources>
